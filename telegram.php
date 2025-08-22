@@ -1,9 +1,7 @@
 <?php
 /**
  * FathBot — Webhook + Reply Keyboard — uses FathApp
- * PHP 7.4+ https://api.telegram.org/bot7626954984:AAELq3Lac1ax3jePOKDCCA2JE27iO33glKk/setWebhook?url=https://fa8dc3918f71.ngrok-free.app/Fath-recitation-bot-php/telegram.php
- 
- * انو فقط مونده و کران
+ * PHP 7.4+ 
  */
 
 mb_internal_encoding('UTF-8');
