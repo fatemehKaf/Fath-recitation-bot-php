@@ -1,0 +1,11 @@
+# پوشه‌های مربوط به Composer
+/vendor/
+Composer.lock
+.env
+.env.local
+.env.development
+.env.production
+*.log
+.awaiting.json
+debug.txt
+reminders.json
